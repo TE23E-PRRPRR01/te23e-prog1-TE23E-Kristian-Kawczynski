@@ -34,7 +34,7 @@ if (answer == "y")
     else
     {
         Console.WriteLine("En drake bränner upp rummet");
-        Cosnole.ReadLine();
+        Console.ReadLine();
     }
 
 }
@@ -45,7 +45,7 @@ else
     if (answer == "y")
     {
         Console.WriteLine("Svärdet blev cursed och du blev possesed");
-        Cosnole.ReadLine();
+        Console.ReadLine();
     }
     else
     {
